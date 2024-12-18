@@ -24,8 +24,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/subb"
-        android:text="subtract"
+        android:id="@+id/mulb"
+        android:text="multiply"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <TextView
@@ -37,7 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/ggback"
+        android:id="@+id/gggback"
         android:text="go back"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
